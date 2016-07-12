@@ -16,4 +16,7 @@ Sample android app to find near by restaurants
 - **retrofit:converter-gson** : compile ‘com.squareup.retrofit:converter-goon:2.0.0-beta2’
 - **Realm**
 
+#### Snapshots
+![Home](https://github.com/mhetrerajat/Restaurants/blob/master/Home.png)
+
  
